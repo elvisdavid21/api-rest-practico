@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-practico",
+  "version": "1.0.0",
+  "description": "Consumo de api rest con javaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvisdavid21/api-rest-practico.git"
+  },
+  "author": "Elvis Montaluisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvisdavid21/api-rest-practico/issues"
+  },
+  "homepage": "https://github.com/elvisdavid21/api-rest-practico#readme"
+}
